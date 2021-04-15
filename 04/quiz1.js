@@ -36,7 +36,7 @@ function update(){
         photo.src = todayPhotos[i].img;
         wrap.appendChild(photo);
     }
-    curPage.textContent = curPageIdx+1;
+    curPage.text = curPageIdx+1;
     lastPage.textContent = lastPageIdx+1;
 }
 
