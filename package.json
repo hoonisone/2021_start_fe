@@ -1,0 +1,23 @@
+{
+  "name": "start-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoonisone/start_fe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoonisone/start_fe/issues"
+  },
+  "homepage": "https://github.com/hoonisone/start_fe#readme"
+}
