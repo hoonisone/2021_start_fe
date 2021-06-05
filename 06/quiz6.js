@@ -5,7 +5,7 @@ const button = document.getElementById('btn');
 button.addEventListener("mousedown", printMultiplicationTable);
 
 function printMultiplicationTable(){
-    level = num.value;
+    var level = num.value;
     console.log(level);
     if(!isNaN(Number(level))){
         var content = "";
