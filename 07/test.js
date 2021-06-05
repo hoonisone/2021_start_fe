@@ -1,3 +1,3 @@
-const a = 'abc';
-const b = [10];
-const c = 'abc';
+// const a = 'abc';
+// const b = [10];
+// const c = 'abc';
